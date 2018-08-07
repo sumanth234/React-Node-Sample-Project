@@ -17,6 +17,9 @@
   ],
   "author": "Sumanth",
   "license": "MIT",
+  "engines": {
+    "node": "8.11.1"
+  },
   "bugs": {
     "url": "https://github.com/sumanth234/React-Node-Sample-Project/issues"
   },
