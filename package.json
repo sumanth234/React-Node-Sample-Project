@@ -1,0 +1,27 @@
+{
+  "name": "react-node-sample-project",
+  "version": "1.0.0",
+  "description": "A sample project on React and Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanth234/React-Node-Sample-Project.git"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "Express"
+  ],
+  "author": "Sumanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumanth234/React-Node-Sample-Project/issues"
+  },
+  "homepage": "https://github.com/sumanth234/React-Node-Sample-Project#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
